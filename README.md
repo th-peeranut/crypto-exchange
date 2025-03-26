@@ -1,1 +1,1 @@
-# cryptocurrency
+# crypto-exchange
